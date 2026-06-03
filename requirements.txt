@@ -1,0 +1,5 @@
+langchain==0.1.20
+langchain-core==0.1.53
+langsmith==0.1.147
+langchain-google-genai
+streamlit
